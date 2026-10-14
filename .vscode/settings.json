@@ -1,7 +1,0 @@
-{
-    "python.defaultInterpreterPath": "${workspaceFolder}/candidate_kit/.venv/Scripts/python.exe",
-    "python.analysis.extraPaths": [
-        "${workspaceFolder}/candidate_kit",
-        "${workspaceFolder}/candidate_kit/.venv/Lib/site-packages"
-    ]
-}
